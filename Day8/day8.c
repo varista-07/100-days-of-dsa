@@ -14,3 +14,21 @@
 // 32
 
 // Explanation: 2^5 = 2 * 2 * 2 * 2 * 2 = 32
+
+#include <stdio.h>
+#include <stdlib.h>
+int power(int a, int b)
+{
+    if (b == 0)
+        return 1;
+    else
+        return a * power(a, b - 1);
+}
+int main()
+{
+    int a, b;
+    scanf("%d %d", &a, &b);
+    int result = power(a, b);
+    printf("%d", result);
+    return 0;
+}
