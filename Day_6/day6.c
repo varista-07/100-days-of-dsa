@@ -12,6 +12,7 @@
 // 1 2 3
 // Explanation: Keep first occurrence of each element: 1, 2, 3
 
+
 #include <stdio.h>
 #include <stdlib.h>
 int main()
