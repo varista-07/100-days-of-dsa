@@ -25,7 +25,6 @@ int main() {
 
     int left = 0, right = n - 1;
     while (left < right) {
-        // Swap arr[left] and arr[right]
         int temp = arr[left];
         arr[left] = arr[right];
         arr[right] = temp;
