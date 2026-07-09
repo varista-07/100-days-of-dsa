@@ -16,6 +16,7 @@
 // Comparisons = 3
 // Explanation: Compared with 10, 20, 30 (found at index 2 with 3 comparisons)
 
+
 #include <stdio.h>
 #include <stdlib.h>
 int main()
