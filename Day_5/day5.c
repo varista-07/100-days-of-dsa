@@ -16,6 +16,7 @@
 // 10 15 20 25 30 40 50 60 70
 // Explanation: Compare the next unprocessed arrival time from both logs and append the earlier one to the final log until all entries are processed
 
+
 #include <stdio.h>
 #include <stdlib.h>
 int main()
