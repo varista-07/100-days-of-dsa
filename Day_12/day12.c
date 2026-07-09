@@ -32,7 +32,7 @@
 // 2 3 4
 // 1 4 5
 // Output:
-// Not a Symmetric Matrix
+// Not a Symmetric Matrixmkdir
 // Test Case 3:
 // Input:
 // 2 3
