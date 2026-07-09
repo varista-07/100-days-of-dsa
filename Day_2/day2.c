@@ -4,7 +4,7 @@
 // - Second line: n space-separated integers
 // - Third line: integer pos (1-based position to delete)
 // Output:
-// - Print the updated array with (n-1) elements, space-separated
+// Print the updated array with (n-1) elements, space-separated
 // Example:
 // Input:
 // 5
